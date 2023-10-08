@@ -17,6 +17,10 @@ button{
     background-color: orange;
     font-weight: bold;
 }
+button:hover{
+    background-color: rgb(241, 178, 60);
+    transition: all 0.5s ease-in-out;
+}
 form{
     padding: 60px 30px;
     background-color: black;
